@@ -103,13 +103,13 @@ function Tcc(){
     const iframeL:CSSProperties = {
         position: "fixed",
         left: "1px",
-        bottom: "345px"
+        bottom: "300px"
     }
 
     const iframeR:CSSProperties = {
         position: "fixed",
         right: "1px",
-        bottom: "345px"
+        bottom: "300px"
     }
 
     const Aviso:CSSProperties = {
