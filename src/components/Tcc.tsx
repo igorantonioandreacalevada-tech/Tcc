@@ -116,7 +116,7 @@ function Tcc(){
         position: "fixed",
         right: "1px",
         fontSize: "10px",
-        bottom: "200px",
+        bottom: "150px",
         cursor: "default",
         color: "rgb(255, 255, 255)"
     }
